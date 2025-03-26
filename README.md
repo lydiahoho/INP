@@ -1,5 +1,5 @@
 # Intro. to Network Programming
-NYCU 2023 Fall
+NYCU 2023 Fall, prof Chun-Ying Huang
 ## Homework
 HW1:  [Static Web Server](https://github.com/lydiahoho/INP/tree/main/hw1)
 
